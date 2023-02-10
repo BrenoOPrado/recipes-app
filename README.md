@@ -1,13 +1,41 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Projeto Recipes App
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+![img](demo-recipes-app.gif)
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+
+Este projeto foi desenvolvido em grupo durante o curso Trybe para Full Stack Web Developers.
+
+O aplicativo consiste em um site de receita focado em dispositivos móveis.
+É possível listar, pesquisar por nome e ingredientes, filtrar, favoritar e acompanhar o andamento do preparo de receitas de comidas e bebidas.
+
+[TheMealDB](https://www.themealdb.com/) e [The CockTailDB API](https://www.thecocktaildb.com/api.php) foram usados para obter os dados.
+
+<details>
+  <summary><strong>Skills</strong></summary><br />
+
+ In this project, the following skills were developed:
+ 
+  - React
+  - Redux
+  - React Redux
+  - RTL para os testes
+  - CSS
+  
+</details>
+
+<details>
+  <summary><strong>Como executar este projeto</strong></summary><br />
+
+1. Crie um fork deste projeto e siga este tutorial de [como fazer um fork](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
+
+2. Depois que o fork estiver concluída, clone o repositório criado em seu computador.
+
+3. Execute o seguinte:
+```sh
+npm install
+```
+4. e então
+```sh
+npm start
+```
+</details>
